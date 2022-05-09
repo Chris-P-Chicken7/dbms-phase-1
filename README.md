@@ -1,2 +1,2 @@
-# dbms-group-project
-# dbms-phase-1
+# DBMS Group Project
+# Phase 1
