@@ -36,6 +36,7 @@ nav {
 
 span {
     color: #f9004d;
+    color: greenyellow;
 }
 
 nav ul li {
@@ -294,20 +295,20 @@ section .title::after {
     width: 90%;
 }
 
-.skills-content .right .css::before {
+.skills-content .right .python::before {
     width: 60%;
 }
 
-.skills-content .right .js::before {
-    width: 80%;
+.skills-content .right .candcpp::before {
+    width: 70%;
 }
 
-.skills-content .right .php::before {
-    width: 80%;
+.skills-content .right .bash::before {
+    width: 60%;
 }
 
 .skills-content .right .mysql::before {
-    width: 70%;
+    width: 80%;
 }
 
 /* teams section styling */
